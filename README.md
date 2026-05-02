@@ -29,23 +29,32 @@ This commands includes
 ## Output
 1. netstat
 <img width="1166" height="890" alt="image" src="https://github.com/user-attachments/assets/610b1216-e9c2-441b-9f04-c189b1dfd94e" />
-2. ipcnfig
+
+2. ipconfig
 <img width="1112" height="946" alt="image" src="https://github.com/user-attachments/assets/2368c348-5887-4a23-8121-dfa65f716cbe" />
+
 3. ping
 <img width="942" height="315" alt="image" src="https://github.com/user-attachments/assets/d4e633be-8f43-4ebb-ae58-4bba477cfef9" />
+
 4. tracert
 <img width="1163" height="416" alt="image" src="https://github.com/user-attachments/assets/a567010c-ab99-4788-b49a-65a47d1ac84a" />
+
 5. nslookup
 <img width="541" height="221" alt="image" src="https://github.com/user-attachments/assets/17c478d4-c5dc-4a9a-bd87-399f08b67c54" />
+
 6. getmac
 <img width="970" height="191" alt="image" src="https://github.com/user-attachments/assets/d826bd37-0c10-4b74-a131-8989f203b5c4" />
+
 7. hostname
 <img width="475" height="49" alt="image" src="https://github.com/user-attachments/assets/7d163660-b89f-4ae5-b639-0aab7c29bc56" />
+
 8. arp
 <img width="1120" height="762" alt="image" src="https://github.com/user-attachments/assets/f044fc85-4448-43e4-83c1-2add04b3b759" />
+
 9. systeminfo
 <img width="1264" height="867" alt="image" src="https://github.com/user-attachments/assets/3f41a945-b840-43f8-a552-6788cbe03026" />
 <img width="1458" height="911" alt="image" src="https://github.com/user-attachments/assets/4e0c7007-70b5-4378-bfca-aeb6a5966e78" />
+
 10.netsh wlan show profiles
 <img width="744" height="736" alt="image" src="https://github.com/user-attachments/assets/afa462d8-a034-440e-bc5a-2eac3791233b" />
 
