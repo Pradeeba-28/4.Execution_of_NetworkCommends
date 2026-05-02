@@ -27,6 +27,9 @@ This commands includes
 <BR>
 
 ## Output
+## Output
+
+[Click here to view the output file](./network commands.docx)
 
 ## Result
 Thus Execution of Network commands Performed 
