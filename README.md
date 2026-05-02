@@ -29,7 +29,7 @@ This commands includes
 ## Output
 ## Output
 
-[Click here to view the output file](./network commands.docx)
+[Click here to view the output file](./network%20commands.docx)
 
 ## Result
 Thus Execution of Network commands Performed 
