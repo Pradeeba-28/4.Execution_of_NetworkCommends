@@ -48,20 +48,18 @@ This commands includes
 7. hostname
 <img width="475" height="49" alt="image" src="https://github.com/user-attachments/assets/7d163660-b89f-4ae5-b639-0aab7c29bc56" />
 
-8. arp
-<img width="1120" height="762" alt="image" src="https://github.com/user-attachments/assets/f044fc85-4448-43e4-83c1-2add04b3b759" />
+8. arp -a
+<img width="855" height="281" alt="image" src="https://github.com/user-attachments/assets/f007ed7d-9734-4969-879b-bc8f55bbea41" />
+
 
 9. systeminfo
 <img width="1264" height="867" alt="image" src="https://github.com/user-attachments/assets/3f41a945-b840-43f8-a552-6788cbe03026" />
 <img width="1458" height="911" alt="image" src="https://github.com/user-attachments/assets/4e0c7007-70b5-4378-bfca-aeb6a5966e78" />
 
-10.netsh wlan show profiles
-<img width="744" height="736" alt="image" src="https://github.com/user-attachments/assets/afa462d8-a034-440e-bc5a-2eac3791233b" />
+10.route print
+<img width="1001" height="867" alt="image" src="https://github.com/user-attachments/assets/633728d4-d5b7-4020-83f5-f1ec1ff03067" />
 
 
-## Output
-
-[Click here to view the output file](./network%20commands.docx)
 
 ## Result
 Thus Execution of Network commands Performed 
